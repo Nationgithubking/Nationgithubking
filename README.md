@@ -1,5 +1,5 @@
 git clone https://github.com/Nationgithubking/Nationgithubking.git
 
-cd nati 
+cd Nationgithubking 
 
-Python nati1.py
+Python nation1.py
